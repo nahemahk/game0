@@ -1,0 +1,2 @@
+assets/image/car.jpg
+assets/image/plains.png
